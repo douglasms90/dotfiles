@@ -1,6 +1,6 @@
 # Dotfiles
 
-## Instala�ao
+## Instalação
 
 ```bash
 git clone https://github.com/usuario/dotfiles.git ~/dev/dotfiles
